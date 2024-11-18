@@ -1,2 +1,3 @@
 # TcpFileSender
-![Description text](path/image-name.png)
+![Description text](https://github.com/akafroggy/TcpFileServer/blob/main/41243249.png))
+
